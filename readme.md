@@ -1,14 +1,15 @@
 # Trabalho Prático III - Teste de Sistema com Cypress
+---
 
-### Disciplina: Teste, Verificação e Validação de Software
-### Docente: Andrey Rodrigues
-### Discentes: Illgner Anderson, João Victor Vasconcelos, Victor Gabriel Araújo e Victor Queiroz Barbosa
+#### Disciplina: Teste, Verificação e Validação de Software
+#### Docente: Andrey Rodrigues
+#### Discentes: Illgner Anderson, João Victor Vasconcelos, Victor Gabriel Araújo e Victor Queiroz Barbosa
 
-### Nesta etapa, a equipe irá trabalhar com testes de sistema, focados em verificar o funcionamento de
-funcionalidades completas do sistema, simulando cenários de uso real. A ferramenta Cypress será
-utilizada para a criação e execução desses testes.
-• Simulação de Casos de Teste
-• Demonstração Prática
+#### Esse  trabalhar com testes de sistema, focados em verificar suas funcionalidades, simulando cenários de uso real.
+A ferramenta Cypress será utilizada para a execução dos testes.
+
+ 1-  Simulação de Casos de Teste
+ 2 - Demonstração Prática
 
 Instruções para o funcionamento correto do teste
 
