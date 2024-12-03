@@ -1,8 +1,8 @@
-**Plano de Testes \- Aplicativo de Delivery**
+# **Plano de Testes \- Aplicativo de Delivery**
 
 * **Nome do Projeto:** 
 
-* # **Versão do Plano de Teste:** 1.0
+* ### **Versão do Plano de Teste:** 1.0
 
 * **Data de Criação:** 26/11/2024
 
@@ -12,25 +12,24 @@
 
 * **Equipe de Testes:** \[inserir nomes dos testadores\]
 
-1. # **Escopo e Objetivo Descrição:**
+## 1. **Escopo e Objetivo Descrição:**
 
 O escopo reflete as funcionalidades e limites do aplicativo, enquanto o objetivo foca na finalidade do aplicativo de delivery, ajudando a contextualizar melhor o plano de testes.
 
-# **Exemplo para o App de Delivery:**
+### **Exemplo para o App de Delivery:**
 
 O aplicativo tem como objetivo facilitar a interação entre clientes e restaurantes locais, permitindo que os usuários encontrem rapidamente opções de refeição, façam o pedido com praticidade e acompanhem a entrega em tempo real. Além disso, o sistema busca fornecer uma plataforma confiável para transações financeiras e manter os usuários informados sobre o status de seus pedidos por meio de notificações.
 
-2. # **Características do Produto a Serem Testadas Descrição:**
+## 2. **Características do Produto a Serem Testadas Descrição:**
 
 As funcionalidades e características que serão validadas durante o processo de testes. Aqui serão listadas as principais funcionalidades que precisam ser testadas no aplicativo.
 
-# **Exemplo para o App de Delivery:**
+### **Exemplo para o App de Delivery:**
 
 * login
+* 
 
-  * 
-
-3. # **Abordagem a Ser Utilizada Descrição:**
+## 3. **Abordagem a Ser Utilizada Descrição:**
 
 A abordagem de teste define quais técnicas, métodos e ferramentas serão usadas no processo. Ela ajuda a garantir a cobertura adequada das funcionalidades.
 
@@ -42,7 +41,7 @@ A abordagem de teste define quais técnicas, métodos e ferramentas serão usada
 | **Abordagem do Teste** | Caixa Branca (x) Caixa Preta (x) |
 | **Responsável(is)** | Programador(es) ou equipe de testes |
 
-# **Exemplo para o App de Delivery (Tipos de Testes):**
+### **Exemplo para o App de Delivery (Tipos de Testes):**
 
 * **Testes Funcionais:** Testar todas as funções principais do aplicativo (criação de conta, login, pedidos, pagamentos).
 
@@ -52,11 +51,11 @@ A abordagem de teste define quais técnicas, métodos e ferramentas serão usada
 
   * **Ferramentas Utilizadas:** Selenium (para automação), JMeter (para testes de desempenho).
 
-4. # **Itens a Serem Testados Descrição:**
+## 4. **Itens a Serem Testados Descrição:**
 
 Os componentes do sistema que serão testados, desde funcionalidades até módulos específicos.
 
-# **Exemplo para o App de Delivery:**
+### **Exemplo para o App de Delivery:**
 
 * Validação dos processos de criação de conta, login e recuperação de senha.
 
@@ -68,11 +67,11 @@ Os componentes do sistema que serão testados, desde funcionalidades até módul
 
   * Verificar a integração com gateways de pagamento e confirmação de transações.
 
-5. # **Cronograma para o Teste Descrição:**
+## 5. **Cronograma para o Teste Descrição:**
 
 O cronograma estabelece o tempo estimado para a execução de cada etapa do plano de testes.
 
-# **Exemplo para o App de Delivery:**
+### **Exemplo para o App de Delivery:**
 
 * **Semana 1:** Revisão do plano de testes e preparação do ambiente.
 
@@ -84,11 +83,11 @@ O cronograma estabelece o tempo estimado para a execução de cada etapa do plan
 
   * **Semana 6:** Avaliação final, relatório de bugs e liberação para produção.
 
-6. # **Pessoal Responsável pelas Diferentes Atividades de Teste Descrição:**
+## 6. **Pessoal Responsável pelas Diferentes Atividades de Teste Descrição:**
 
 Lista dos testadores responsáveis por cada atividade ou parte do processo de testes.
 
-# **Exemplo para o App de Delivery:**
+### **Exemplo para o App de Delivery:**
 
 * **Responsável por Testes Funcionais:** João Silva
 
@@ -100,11 +99,11 @@ Lista dos testadores responsáveis por cada atividade ou parte do processo de te
 
   * **Analista de Qualidade:** Felipe Santos
 
-7. # **Os Riscos Associados aos Testes Descrição:**
+## 7. **Os Riscos Associados aos Testes Descrição:**
 
 Os riscos são possíveis problemas que podem impactar a execução dos testes ou o sucesso do produto.
 
-# **Exemplo para o App de Delivery:**
+### **Exemplo para o App de Delivery:**
 
 * **Falta de Integração com APIs Externas:** Se os serviços de pagamento ou rastreamento de pedidos não estiverem disponíveis no ambiente de testes, pode haver atrasos na execução.
 
@@ -112,13 +111,13 @@ Os riscos são possíveis problemas que podem impactar a execução dos testes o
 
   * **Alocação Insuficiente de Recursos:** Caso a equipe de teste não seja suficiente para cobrir todos os cenários até o prazo final, pode ocorrer falta de cobertura nos testes.
 
-**Especificação dos Casos de Teste**
+## **Especificação dos Casos de Teste**
 
-1. # **Caracterização do Caso de Teste Descrição:**
+### 1. **Caracterização do Caso de Teste Descrição:**
 
 Cada caso de teste descreve uma situação ou funcionalidade específica do aplicativo que precisa ser verificada. É uma maneira de validar se o sistema está funcionando conforme esperado.
 
-# **Exemplo para o App de Delivery:**
+### **Exemplo para o App de Delivery:**
 
 | Identificador | CT-01 |
 | :---- | :---- |
@@ -132,7 +131,7 @@ Cada caso de teste descreve uma situação ou funcionalidade específica do apli
 | **Dependências** | \- O caso de teste "Finalizar pedido com cupom de desconto" depende do caso de teste "Adicionar itens ao carrinho". |
 | **Observações Adicionais** | Realizar testes com diferentes cupons e valores de pedido para garantir a cobertura. Documentar quaisquer anomalias ou comportamentos inesperados. |
 
-2. **Especificação de Entradas, Resultados Esperados e Casos de Testes Descrição:**
+### 2. **Especificação de Entradas, Resultados Esperados e Casos de Testes Descrição:**
 
 Nesta seção, devem ser descritas as entradas que o sistema deve receber e os resultados esperados ao processar essas entradas. Técnicas como **particionamento por classes de equivalência** ou **grafo de causa e efeito** devem ser aplicadas aqui.
 
