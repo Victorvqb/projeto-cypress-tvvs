@@ -1,6 +1,8 @@
 Relatório de Testes: RealWorld Application
 Objetivo do Teste: Verificar a funcionalidade e usabilidade do sistema em cenários reais, validando comportamentos esperados de acordo com os requisitos de software.
 
+
+
 Relatório de Teste 1: Login com Credenciais Válidas
 Objetivo: Verificar se o usuário pode realizar login com credenciais válidas.
 
@@ -237,3 +239,6 @@ Navegar entre a página inicial, página de artigos e página de perfil.
 Resultado Esperado: As páginas carregam sem erros.
 
 Resultado Obtido: Conforme o esperado. Páginas carregadas sem erros
+
+
+Esses relatórios de casos de teste cobrem as principais funcionalidades da plataforma web e validam a experiência do usuário final.
