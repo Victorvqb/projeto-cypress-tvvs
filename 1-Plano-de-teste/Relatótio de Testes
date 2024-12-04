@@ -39,6 +39,7 @@ Saída Esperada:
 Dados atualizados são exibidos no perfil público do usuário.
 Nova foto de perfil aparece no cabeçalho de navegação.
 Mensagem de sucesso: "Profile updated successfully."
+
 Caso de Teste 3: Curtir um Artigo
 Objetivo: Verificar a funcionalidade de curtir artigos e a atualização do contador de likes.
 
@@ -55,6 +56,7 @@ Saída Esperada:
 O contador de likes do artigo aumenta em +1.
 Ícone de "coração" permanece ativo após a atualização da página.
 O mesmo comportamento é esperado em diferentes dispositivos (responsividade).
+
 Caso de Teste 4: Salvar Artigo como Favorito
 Objetivo: Validar a funcionalidade de salvar artigos na lista de favoritos do usuário.
 
@@ -70,6 +72,7 @@ Saída Esperada:
 
 O artigo aparece listado na aba "Favoritos" do usuário.
 Após desfavoritar, o artigo é removido da aba "Favoritos".
+
 Caso de Teste 5: Visualizar Perfil de Outro Usuário
 Objetivo: Garantir que o perfil de outros usuários exiba as informações públicas corretamente.
 
@@ -86,6 +89,7 @@ Saída Esperada:
 Exibição dos artigos criados pelo usuário.
 Biografia e imagem de perfil são exibidas corretamente.
 A opção "Seguir" aparece para o visitante.
+
 Caso de Teste 6: Seguir/Deixar de Seguir Usuário
 Objetivo: Testar a funcionalidade de seguir e deixar de seguir outros usuários.
 
