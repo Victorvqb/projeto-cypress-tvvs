@@ -1,5 +1,4 @@
 # Trabalho Prático III - Teste de Sistema com Cypress
-
 ---
 
 #### Disciplina: Teste, Verificação e Validação de Software  
