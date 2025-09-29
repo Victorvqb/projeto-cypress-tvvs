@@ -1,4 +1,4 @@
-# Trabalho Prático et III - Teste de Sistema com Cypress
+# Trabalho Prático ET III - Teste de Sistema com Cypress
 
 
 #### Disciplina: Teste, Verificação e Validação de Software  
